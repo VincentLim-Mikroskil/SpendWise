@@ -1,11 +1,7 @@
 # SpendWise - Budget & Expense Tracker Web App
 
----
-
 ## Deskripsi
 SpendWise adalah aplikasi berbasis web yang digunakan untuk membantu pengguna dalam mencatat dan mengelola keuangan sehari-hari. Melalui aplikasi ini, pengguna dapat mencatat pemasukan dan pengeluaran, melihat riwayat transaksi, serta mengetahui kondisi keuangan mereka secara sederhana.
-
----
 
 ## Fitur
 
@@ -25,9 +21,7 @@ SpendWise adalah aplikasi berbasis web yang digunakan untuk membantu pengguna da
 14. User Profile - Mengelola informasi pengguna seperti nama dan email.
 15. Logout - Keluar dari akun dengan aman.
 
----
-
-## ⏳ Timeline (Agile Development)
+## Timeline
 
 ### Sprint 1 (Week 1) - Setup & Authentication
 Pada tahap ini tim fokus pada persiapan awal project dan fitur dasar.
