@@ -19,7 +19,7 @@ SpendWise adalah aplikasi berbasis web yang digunakan untuk membantu pengguna da
 12. Monthly Summary - Menampilkan ringkasan keuangan per bulan.
 13. Search Transaction - Mencari transaksi tertentu berdasarkan nama atau kategori.
 14. Filter by Date - Menampilkan transaksi berdasarkan tanggal tertentu.
-15. User Profile - Mengelola informasi pengguna seperti nama dan email.
+15. User Profile - Mengelola informasi pengguna seperti nama, password, dan email.
 17. Logout - Keluar dari akun dengan aman.
 17. Multi-Wallet: Mendukung pemisahan saldo (Misal: Tunai, Rekening Bank, E-wallet).
 18. Kategori Kustom: Pengguna bisa menambah atau mengubah ikon dan nama kategori (Misal: Makanan, Transportasi, Kost, Bensin, dan sebagainya).
