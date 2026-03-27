@@ -22,7 +22,7 @@ SpendWise adalah aplikasi berbasis web yang digunakan untuk membantu pengguna da
 15. User Profile - Mengelola informasi pengguna seperti nama dan email.
 17. Logout - Keluar dari akun dengan aman.
 17. Multi-Wallet: Mendukung pemisahan saldo (Misal: Tunai, Rekening Bank, E-wallet).
-18. Kategori Kustom: Pengguna bisa menambah atau mengubah ikon dan nama kategori (Misal: Makanan, Transportasi, Kost).
+18. Kategori Kustom: Pengguna bisa menambah atau mengubah ikon dan nama kategori (Misal: Makanan, Transportasi, Kost, Bensin, dan sebagainya).
 19. Keamanan Biometrik/PIN: Mengunci aplikasi menggunakan sidik jari atau kode rahasia.
 20. Mode Gelap (Dark Mode): Optimasi visual untuk kenyamanan mata.
 
