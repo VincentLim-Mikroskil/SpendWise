@@ -8,18 +8,23 @@ SpendWise adalah aplikasi berbasis web yang digunakan untuk membantu pengguna da
 1. User Registration - Pengguna dapat membuat akun baru untuk menyimpan data keuangan mereka.
 2. User Login - Pengguna dapat masuk ke sistem menggunakan akun yang sudah dibuat.
 3. Add Income - Pengguna dapat menambahkan data pemasukan seperti gaji atau uang masuk.
-4. Add Expense - Pengguna dapat mencatat pengeluaran sehari-hari.
-5. Transaction History - Menampilkan semua riwayat pemasukan dan pengeluaran.
-6. Edit Transaction - Mengubah data transaksi jika terjadi kesalahan input.
-7. Delete Transaction - Menghapus transaksi yang tidak diperlukan.
-8. Category Selection - Memberikan kategori pada transaksi seperti makanan, transportasi, dll.
-9. Dashboard Overview - Menampilkan ringkasan kondisi keuangan pengguna secara sederhana.
-10. Balance Calculation - Menghitung total saldo berdasarkan pemasukan dan pengeluaran.
-11. Monthly Summary - Menampilkan ringkasan keuangan per bulan.
-12. Search Transaction - Mencari transaksi tertentu berdasarkan nama atau kategori.
-13. Filter by Date - Menampilkan transaksi berdasarkan tanggal tertentu.
-14. User Profile - Mengelola informasi pengguna seperti nama dan email.
-15. Logout - Keluar dari akun dengan aman.
+4. Add Expense - Pengguna dapat mencatat pengeluaran sehari-hari 
+5.  Add Transfer - Pengguna dapat mentransfer/memindahkan aset/uang antar akun (misalnya dari cash ke bank)
+6. Transaction History - Menampilkan semua riwayat pemasukan dan pengeluaran.
+7. Edit Transaction - Mengubah data transaksi jika terjadi kesalahan input.
+8. Delete Transaction - Menghapus transaksi yang tidak diperlukan.
+9. Category Selection - Memberikan kategori pada transaksi seperti makanan, transportasi, dll.
+10. Dashboard Overview - Menampilkan ringkasan kondisi keuangan pengguna secara sederhana.
+11. Balance Calculation - Menghitung total saldo berdasarkan pemasukan dan pengeluaran.
+12. Monthly Summary - Menampilkan ringkasan keuangan per bulan.
+13. Search Transaction - Mencari transaksi tertentu berdasarkan nama atau kategori.
+14. Filter by Date - Menampilkan transaksi berdasarkan tanggal tertentu.
+15. User Profile - Mengelola informasi pengguna seperti nama dan email.
+17. Logout - Keluar dari akun dengan aman.
+17. Multi-Wallet: Mendukung pemisahan saldo (Misal: Tunai, Rekening Bank, E-wallet).
+18. Kategori Kustom: Pengguna bisa menambah atau mengubah ikon dan nama kategori (Misal: Makanan, Transportasi, Kost).
+19. Keamanan Biometrik/PIN: Mengunci aplikasi menggunakan sidik jari atau kode rahasia.
+20. Mode Gelap (Dark Mode): Optimasi visual untuk kenyamanan mata.
 
 ## Timeline
 
