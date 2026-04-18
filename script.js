@@ -1,12 +1,10 @@
 function addExpense() {
-  let input = document.getElementById("expense");
-  let expense = input.value.trim();
-
-  if (expense === "") {
-    alert("Tidak boleh kosong!");
-    return;
-  }
+  let expense = document.getElementById("expense").value;
 
   let li = document.createElement("li");
-  li.innerText = expense + " ";
+  li.innerText = expense;
+
+  document.getElementById("list").appendChild(li);
+
+  document.getElementById("expense").value = "";
 }
