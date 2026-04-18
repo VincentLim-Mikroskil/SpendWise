@@ -1,25 +1,15 @@
-function addExpense() {
-  let input = document.getElementById("expense");
-  let expense = input.value.trim();
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Todo App</title>
+</head>
+<body>
+  <h1>Todo List</h1>
+  <input type="text" id="task">
+  <button onclick="addTask()">Tambah</button>
 
-  if (expense === "") {
-    alert("Tidak boleh kosong!");
-    return;
-  }
+  <ul id="list"></ul>
 
-  let li = document.createElement("li");
-  li.innerText = expense + " ";
-
-  // tombol hapus
-  let btn = document.createElement("button");
-  btn.innerText = "Hapus";
-
-  btn.onclick = function () {
-    li.remove(); // ini yang menghapus item
-  };
-
-  li.appendChild(btn);
-  document.getElementById("list").appendChild(li);
-
-  input.value = "";
-}
+  <script src="script.js"></script>
+</body>
+</html>
